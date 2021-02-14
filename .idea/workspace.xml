@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6200668-1941-47da-b06b-05fc8bc36943" name="Default Changelist" comment="" />
+    <list default="true" id="c6200668-1941-47da-b06b-05fc8bc36943" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mindex/challenge/DataBootstrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mindex/challenge/DataBootstrapTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,19 +90,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Gradle.DataBootstrapTest.testCompensation">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DataBootstrapTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -226,7 +216,9 @@
       <workItem from="1613239594286" duration="2134000" />
       <workItem from="1613241738937" duration="768000" />
       <workItem from="1613244066033" duration="554000" />
-      <workItem from="1613244629124" duration="3201000" />
+      <workItem from="1613244629124" duration="3540000" />
+      <workItem from="1613265283131" duration="37000" />
+      <workItem from="1613265328377" duration="64000" />
     </task>
     <servers />
   </component>
